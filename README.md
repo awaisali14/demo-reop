@@ -6,3 +6,6 @@ Contains all the description.
 
 This is the code.
 
+## Local development setup
+
+Open your index.html file.
